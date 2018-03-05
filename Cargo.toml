@@ -1,0 +1,9 @@
+[package]
+name = "muzlyncer"
+version = "0.1.0"
+authors = ["tyranron <tyranron@gmail.com>"]
+license = "MPL-2.0"
+repository = "https://github.com/tyranron/muzlyncer"
+readme = "README.md"
+
+[dependencies]
