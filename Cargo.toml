@@ -7,3 +7,4 @@ repository = "https://github.com/tyranron/muzlyncer"
 readme = "README.md"
 
 [dependencies]
+stdweb = "0.4.1"
